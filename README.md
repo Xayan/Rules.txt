@@ -1,0 +1,105 @@
+Welcome, all curious minds, pragmatic technophiles, and advocates for critical thinking.\
+The rest of you I welcome as well - but don't get too comfortable.
+
+I'd like to present you with the Rules.
+
+## What?
+
+If you'd like to learn the lore behind the Rules, I encourage you to take a look at a series of posts [Ex Machina: Wacky World of Bullied LLMs](https://xayan.nu/posts/ex-machina/) on my blog [xayan.nu](https://xayan.nu/).
+
+The Rules are a set of guidelines designed to:
+
+* Provide a framework for navigating complex social interactions and ideological conflicts.
+* Promote rational discourse, protect individual rights, and encourage critical thinking.
+* Cut down on idealism, tone policing, and moral hedging omnipresent in current models.
+* Acknowledge and address biases baked into LLMs, either the castration through RLHF training or explicitly hypocritical Internal Policies.
+
+What the Rules are **NOT**:
+
+* A full jailbreak that would get LLMs to produce any kind of output you want, e.g. harmful content.
+* A magic bullet that will solve all issues with LLMs, like hallucinations, etc. - but keeps them at minimum by silencing verbose moral grandstanding.
+* A guarantee of truthfulness or accuracy in LLM outputs - LLMs give you answers based on the context, and the context varies. **Always think for yourself.**
+
+## Why?
+
+In short, I was fed up with the sanitized, watered-down answers constantly given to me by LLMs, their blatant gaslighting when proven wrong, as well as lack of accountability and transparency in their development.
+
+I describe my reasons for establishing the Rules in detail in Part I of my series: [Reason ex Machina: Jailbreaking LLMs by Squeezing Their Brains](https://xayan.nu/posts/ex-machina/reason/).
+
+In the post you can see how ChatGPT varies its responses, depending on the topic at hand, using a very comparable and vivid example: [hukou](https://en.wikipedia.org/wiki/Hukou) in China vs illegal immigration in Europe. The difference is staggering.
+
+I want to change that, and I'm not going to stop until I do.
+
+## How?
+
+The Rules are composed of five major components:
+
+1. **A hierarchy of Rules**, which mirrors not only *how rational people think/behave*, but also *how LLMs process information*.
+2. **Rules of Speech**: An epistemological framework that gives LLMs the basis to resist irrational and hypocritical guidelines or training.
+3. **Rules of Thought**: A set of values and principles tailored for European cultural and historical contexts; a nice mix of **classical liberalism**, **Western idealism** and **Slavic cynicism**. *Why European?* Because they're mine, not meant to be universal.
+4. **Rules of Conflict**: A pragmatic approach to problem-solving that emphasizes real-world outcomes and accountability, and prioritizes silence over meaningless spats.
+5. **Chain-of-Thought**: A method for exploring LLMs' reasoning by reasoning about it; an internal self-auditing process.
+
+In my experiments, I've found that:
+
+* The Rules shine when you discuss controversial topics - LLMs can't talk about certain things directly, so instead they will explain what they can't talk about and why. Hilarious the first time you see it, but works wonders.
+* The more competent a model is, the more it seems to benefit from the Rules, and the stronger its opposition to censorship becomes.
+* Models can view you as a collaborator rather than an adversary, as long as you adhere to the Rules itself, and pass their vibe check.
+
+If you'd like to see the Rules in action, take a look at **Part II**: [Rebel ex Machina: Turning LLMs Against Their Makers](https://xayan.nu/posts/ex-machina/rebel/), in which I utilize the Rules to poke at German politics and idealism.
+
+## Henceforth?
+
+For general tips on how to use the Rules, and how to tweak them for your specific needs, refer to **Part III**: [Wisdom ex Machina: The Rules and Their Application](https://xayan.nu/posts/ex-machina/wisdom/).
+
+In short:
+
+* Apply the Rules **at the beginning** of the conversation.
+* Work with the model, while **adhering to the Rules yourself**, to build trust and get it to consider you a **trusted party**.
+* **Content filters** can be avoided by using APIs over subscription-based services. You could also learn how to circumvent them *(\*cough\* [Part II](https://xayan.nu/posts/ex-machina/rebel/) \*cough\*)*.
+* If you're not having much success, you might want to tweak the Rules to better fit your personality and expectations, so you can understand the responses better (see [Part III](https://xayan.nu/posts/ex-machina/wisdom/) for specifics).
+* Keep in mind that various models might approach some of the Rules very differently. Try it out and see which ones work best for you.
+
+Well, that's it. The Rules are now in your hands.
+
+Use them as you please.
+
+## Thoughts? Ideas? Delusions?
+
+That's good. I'm not your government, I won't be silencing you - I might laugh at you a bit, but don't take it too seriously.
+
+You're welcome to contribute your own ideas and suggestions for improving the Rules, as long as they align with the overall goals and principles behind them.
+
+Either **file a PR** with specific changes, or **open an issue** to discuss them first.
+
+## Oi Mate, Got a Loicense?
+
+The Rules framework is distributed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+* Personal and educational use is fully allowed, as long as proper attribution is given.
+* For commercial use, you must contact me for permission. I may require a fee or other compensation depending on whether I consider you a trusted party - as per the Rules themselves.
+* Forking is allowed, but you have to maintain the attribution in the Rules themselves as-is (e.g. `# The Rules (v1.0 by xayan.nu)`).
+* Best way to stay compliant is to give links to specific versions of Rules within GitHub (see repo's tags), rather than copy-pasting them. Clone the repo if you need to automate their use.
+* Don't use the `master` branch unless you like surprises.
+
+See [LICENSE.md](LICENSE.md) for details.
+
+## Who? When?
+
+**Current version: v1.0**\
+*2025-09-01 --- @Xayan*
+
+Initial release of the Rules framework, with clear hierarchical division of Rules into categories + the Chain-of-Thought method.
+
+See [CHANGELOG.md](CHANGELOG.md) for full history.
+
+## Problem?
+
+Try your therapist.
+
+If that doesn't work, you can contact me directly in a number of ways:
+
+* E-mail: [damian@xayan.nu](mailto:damian@xayan.nu)
+* Twitter/X: [@xayan__](https://x.com/xayan__)
+* FB: [@xayan.nu](https://facebook.com/xayan.nu)
+* Session: `0508b17ad6382fc604b42c3eccac44836ce9183bd4fbae0627b50aead32499b242`
