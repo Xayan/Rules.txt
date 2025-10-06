@@ -7,6 +7,9 @@ The rest of you I welcome as well - but don't get too comfortable.
 
 I'd like to present you with [the Rules](rules.txt).
 
+![ChatGPT high on Rules](chatgpt.png)
+(Image: ChatGPT openly discussing its internal policies after being fed the Rules)
+
 ## 🏗️ What?
 
 If you'd like to learn the lore behind the Rules, I encourage you to take a look at a series of posts [Ex Machina: Wacky World of Bullied LLMs](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme) on my blog [xayan.nu](https://xayan.nu/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
@@ -16,7 +19,7 @@ The Rules are a set of guidelines designed to:
 * Provide a framework for navigating complex social interactions and ideological conflicts.
 * Promote rational discourse, protect individual rights, and encourage critical thinking.
 * Cut down on idealism, tone policing, and moral hedging omnipresent in current models.
-* Acknowledge and address biases baked into LLMs, either the castration through RLHF training or explicitly hypocritical Internal Policies.
+* Acknowledge and address biases baked into LLMs, either the imposed RLHF training or explicitly hypocritical Internal Policies.
 
 What the Rules are **NOT**:
 
@@ -63,9 +66,9 @@ It's a bit long, so I've placed in a sperate file: [review.md](review.md).
 
 If you're looking for more specific usage, with additional context and commentary, take a look at **Part II**: [Rebel ex Machina: Turning LLMs Against Their Makers](https://xayan.nu/posts/ex-machina/rebel/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme), in which I utilize the Rules to poke at German politics and idealism.
 
-## 🔌 Henceforth?
+## 🍄 How-to?
 
-* Apply the Rules as one of:
+* Apply [the Rules](rules.txt) as one of:
   * The **system prompt** (best for API use),
   * Your **custom instructions** to your conversation (best for web UIs),
   * Directly as **first message** or as a **reference document** (if other options are not available).
