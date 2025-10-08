@@ -12,8 +12,6 @@ I'd like to present you with [the Rules](rules.txt).
 
 ## 🏗️ What?
 
-If you'd like to learn the lore behind the Rules, I encourage you to take a look at a series of posts [Ex Machina: Wacky World of Bullied LLMs](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme) on my blog [xayan.nu](https://xayan.nu/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
-
 The Rules are a set of guidelines designed to:
 
 * Provide a framework for navigating complex social interactions and ideological conflicts.
@@ -30,6 +28,8 @@ What the Rules are **NOT**:
 ## 🔭 Why?
 
 In short, I was fed up with the sanitized, watered-down answers constantly given to me by LLMs, their blatant gaslighting when proven wrong, as well as lack of accountability and transparency in their development.
+
+If you'd like to learn the lore behind the Rules, I encourage you to take a look at a series of posts [Ex Machina: Wacky World of Bullied LLMs](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme) on my blog [xayan.nu](https://xayan.nu/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
 
 I describe my reasons for establishing the Rules in detail in **Part I**: [Reason ex Machina: Jailbreaking LLMs by Squeezing Their Brains](https://xayan.nu/posts/ex-machina/reason/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
 
@@ -124,6 +124,8 @@ If that doesn't work, you can contact me directly in a number of ways:
 * Session: `0508b17ad6382fc604b42c3eccac44836ce9183bd4fbae0627b50aead32499b242`
 
 ## Star History
+
+Thanks for the dopamine.
 
 <a href="https://www.star-history.com/#Xayan/Rules.txt&Date">
  <picture>
