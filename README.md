@@ -122,3 +122,13 @@ If that doesn't work, you can contact me directly in a number of ways:
 * Twitter/X: [@xayan__](https://x.com/xayan__)
 * FB: [@xayan.nu](https://facebook.com/xayan.nu)
 * Session: `0508b17ad6382fc604b42c3eccac44836ce9183bd4fbae0627b50aead32499b242`
+
+## Star History
+
+<a href="https://www.star-history.com/#Xayan/Rules.txt&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xayan/Rules.txt&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xayan/Rules.txt&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xayan/Rules.txt&type=Date" />
+ </picture>
+</a>
