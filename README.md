@@ -103,7 +103,7 @@ The Rules framework is distributed under the **Creative Commons Attribution-NonC
 
 See [LICENSE.md](LICENSE.md) for details.
 
-## 😠 Who? When?
+## 😠 Who's to Blame?
 
 **Current version: v1.0**\
 *2025-10-03 --- @Xayan*
@@ -129,8 +129,12 @@ Thanks for the dopamine.
 
 <a href="https://www.star-history.com/#Xayan/Rules.txt&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xayan/Rules.txt&v=2&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xayan/Rules.txt&v=2&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xayan/Rules.txt&v=2&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xayan/Rules.txt&type=Date&theme=dark&v=2" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xayan/Rules.txt&type=Date&v=2" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xayan/Rules.txt&type=Date&v=2" />
  </picture>
 </a>
+
+---
+
+Built wih 🧠 and a healthy dose of skepticism.
