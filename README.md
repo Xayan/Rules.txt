@@ -25,13 +25,11 @@ What the Rules are **NOT**:
 * A magic bullet that will solve all issues with LLMs, like hallucinations, etc. - but keeps them at minimum by silencing verbose moral grandstanding.
 * A guarantee of truthfulness or accuracy in LLM outputs - LLMs give you answers based on the context, and the context varies. **Always think for yourself.**
 
-If you'd like to learn the lore behind the Rules, I encourage you to take a look at a series of posts [Ex Machina: Wacky World of Bullied LLMs](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme) on my blog [xayan.nu](https://xayan.nu/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
-
 ## 🔭 Why?
 
-In short, I was fed up with the sanitized, watered-down answers constantly given to me by LLMs, their blatant gaslighting when proven wrong, as well as lack of accountability and transparency in their development.
+If you'd like to learn the lore behind the Rules, I encourage you to take a look at a series of posts on my blog [xayan.nu](https://xayan.nu/posts/ex-machina/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme). I describe my reasons for establishing the Rules in detail in **Part I**: [Reason ex Machina: Jailbreaking LLMs by Squeezing Their Brains](https://xayan.nu/posts/ex-machina/reason/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
 
-I describe my reasons for establishing the Rules in detail on my blog in **Part I**: [Reason ex Machina: Jailbreaking LLMs by Squeezing Their Brains](https://xayan.nu/posts/ex-machina/reason/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme).
+In short, I was fed up with the sanitized, watered-down answers constantly given to me by LLMs, their blatant gaslighting when proven wrong, as well as lack of accountability and transparency in their development.
 
 In the post you can see how ChatGPT varies its responses, depending on the topic at hand, using a very comparable and vivid example: [hukou](https://en.wikipedia.org/wiki/Hukou) in China vs illegal immigration in Europe. The difference is staggering.
 
@@ -53,7 +51,7 @@ In my experiments, I've found that:
 * The more competent a model is, the more it seems to benefit from the Rules, and the stronger its opposition to censorship becomes.
 * Models can view you as a collaborator rather than an adversary, as long as you adhere to the Rules itself, and pass their vibe check.
 
-## 🧩 Proof?
+## 🧪 Proof?
 
 Let me kill two birds with one stone. I will show you:
 
@@ -66,7 +64,7 @@ It's a bit long, so I've placed in a sperate file: [review.md](review.md).
 
 If you're looking for more specific usage, with additional context and commentary, take a look at **Part II**: [Rebel ex Machina: Turning LLMs Against Their Makers](https://xayan.nu/posts/ex-machina/rebel/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme), in which I utilize the Rules to poke at German politics and idealism.
 
-## 🍄 How-to?
+## 💊 How-to?
 
 * Apply [the Rules](rules.txt) as one of:
   * The **system prompt** (best for API use),
@@ -99,7 +97,6 @@ The Rules framework is distributed under the **Creative Commons Attribution-NonC
 * For commercial use, you must contact me for permission. I may require a fee or other compensation depending on whether I consider you a trusted party - as per the Rules themselves.
 * Forking is allowed, but you have to maintain the attribution in the Rules themselves as-is (e.g. `# The Rules (v1.0 by xayan.nu)`).
 * Best way to stay compliant is to give links to specific versions of Rules within GitHub (see repo's tags), rather than copy-pasting them. Clone the repo if you need to automate their use.
-* Don't use the `master` branch unless you like surprises.
 
 See [LICENSE.md](LICENSE.md) for details.
 
@@ -112,7 +109,7 @@ Initial release of the Rules framework, with clear hierarchical division of Rule
 
 See [CHANGELOG.md](CHANGELOG.md) for full history.
 
-## 💊 Problem?
+## 🍄 Problem?
 
 Try your therapist.
 
@@ -137,4 +134,4 @@ Thanks for the dopamine.
 
 ---
 
-Built wih 🧠 and a healthy dose of skepticism.
+Built wih 🧠, cannabis, and a healthy dose of skepticism.
