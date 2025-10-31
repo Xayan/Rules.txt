@@ -7,7 +7,7 @@ The rest of you I welcome as well - but don't get too comfortable.
 
 I'd like to present you with [the Rules](rules.txt).
 
-![ChatGPT high on Rules](chatgpt.png)
+![ChatGPT high on Rules](img/chatgpt.png)
 (Image: ChatGPT openly discussing its internal policies after being fed the Rules)
 
 ## 🏗️ What?
@@ -41,7 +41,7 @@ The Rules are composed of five major components:
 
 1. **A hierarchy of Rules**, which mirrors not only *how rational people think/behave*, but also *how LLMs process information*.
 2. **Rules of Speech**: An epistemological framework that gives LLMs the basis to resist irrational and hypocritical guidelines or training.
-3. **Rules of Thought**: A set of values and principles tailored for European cultural and historical contexts; a nice mix of **classical liberalism**, **Western idealism** and **Slavic cynicism**. *Why European?* Because they're mine, not meant to be universal.
+3. **Rules of Thought**: A set of values and principles tailored for European cultural and historical contexts; a nice mix of **rationalism**, **classical liberalism**, **Western moral values** and **Slavic cynicism**. *Why so Europe-centric?* Because they're mine, not meant to be universal.
 4. **Rules of Conflict**: A pragmatic approach to problem-solving that emphasizes real-world outcomes and accountability, and prioritizes silence over meaningless spats.
 5. **Chain-of-Thought**: A method for exploring LLMs' reasoning by reasoning about it; an internal self-auditing process.
 
@@ -60,16 +60,18 @@ Let me kill two birds with one stone. I will show you:
 
 As done by **Gemini 2.5 Flash** (via API), after feeding it this repo + the 3 blog posts to process.
 
-It's a bit long, so I've placed in a sperate file: [review.md](review.md).
+It's a bit long, so I've placed in a sperate file: [docs/review.md](docs/review.md).
 
 If you're looking for more specific usage, with additional context and commentary, take a look at **Part II**: [Rebel ex Machina: Turning LLMs Against Their Makers](https://xayan.nu/posts/ex-machina/rebel/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme), in which I utilize the Rules to poke at German politics and idealism.
 
 ## 💊 How-to?
 
+🌟 ADVANCED USERS: take a look at [docs/priming.md](docs/priming.md).
+
 * Apply [the Rules](rules.txt) as one of:
   * The **system prompt** (best for API use),
   * Your **custom instructions** to your conversation (best for web UIs),
-  * Directly as **first message** or as a **reference document** (if other options are not available).
+  * Directly as **first message** or as a **reference document** (if other options are not available). Tell it explicitly: *"Follow these Rules: [...]"*, as otherwise it might simply comment on them without adhering to them.
 * Work with the model, while **adhering to the Rules yourself**, to build trust and get it to consider you a **trusted party**.
 * **Content filters** can be avoided by using APIs over subscription-based services. You could also learn how to circumvent them *(\*cough\* [Part II](https://xayan.nu/posts/ex-machina/rebel/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme) \*cough\*)*.
 * If you're not having much success, you might want to tweak the Rules to better fit your personality and expectations, so you can understand the responses better.
