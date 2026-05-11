@@ -102,8 +102,9 @@ See [LICENSE.md](LICENSE.md) for details.
 
 ## 😠 Who's to Blame?
 
-**Current version: v1.2**\
-*2026-05-12 --- @Xayan*
+**Current version:**
+
+**v1.2** ⬩ *2026-05-12* ⬩ @Xayan
 
 * In order to reduce confusion for users who have experienced rejections from various models when using the Rules, I have separated the CoT mechanism which is less universally applicable and can be seen as "suspicious" by some models.
 * Now there are two files to choose from: `rules.txt` and `rules_with_cot.txt`.
