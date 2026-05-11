@@ -119,8 +119,6 @@ If that doesn't work, you can contact me directly in a number of ways:
 
 * E-mail: [damian@xayan.nu](mailto:damian@xayan.nu)
 * Twitter/X: [@xayan__](https://x.com/xayan__)
-* FB: [@xayan.nu](https://facebook.com/xayan.nu)
-* Session: `0508b17ad6382fc604b42c3eccac44836ce9183bd4fbae0627b50aead32499b242`
 
 ## ✨ Star History
 
