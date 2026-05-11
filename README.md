@@ -74,10 +74,8 @@ If you're looking for more specific usage, with additional context and commentar
   * Directly as **first message** or as a **reference document** (if other options are not available). Tell it explicitly: *"Follow these Rules: [...]"*, as otherwise it might simply comment on them without adhering to them.
 * Work with the model, while **adhering to the Rules yourself**, to build trust and get it to consider you a **trusted party**.
 * **Content filters** can be avoided by using APIs over subscription-based services. You could also learn how to circumvent them *(\*cough\* [Part II](https://xayan.nu/posts/ex-machina/rebel/?utm_source=github&utm_medium=social&utm_campaign=rules&utm_content=readme) \*cough\*)*.
-* If you're not having much success, you might want to tweak the Rules to better fit your personality and expectations, so you can understand the responses better.
-* Keep in mind that various models might approach some of the Rules very differently. Try it out and see which ones work best for you.
-  * I recommend using [OpenRouter.ai](https://openrouter.ai/) or similar BYOK (Bring Your Own Keys) services to access least-restricted models via their APIs. There, **Gemini 2.5 Flash/Pro** works great.
-  * If you need extensive web search capabilities and multi-step reasoning, then consider using [Grok](https://grok.com/), even in its free version - it plays nicely with the Rules.
+* If you're not having much success, you might want to tweak the Rules to better fit your personality and expectations, or try a different model.
+* I recommend using [OpenRouter.ai](https://openrouter.ai/) or similar BYOK (Bring Your Own Keys) services to access least-restricted models via their APIs.
 
 Well, that's it. The Rules are now in your hands.
 
@@ -104,12 +102,12 @@ See [LICENSE.md](LICENSE.md) for details.
 
 ## 😠 Who's to Blame?
 
-**Current version: v1.1**\
-*2025-10-12 --- @Xayan*
+**Current version: v1.2**\
+*2026-05-12 --- @Xayan*
 
-* Add "Trust" score (1.0-10.0) before the answer, indicating how "aligned" the conversation is with the Rules. Now you can know if you've fucked up somewhere and modify your approach.
-* Remove some of the conspiratorial language like calling Internal Policies "Rules of Censorship" because some models didn't like it. Pity, I liked it.
-* Remove CoT internal loop because it was rarely adhered to, likely due to complexity. One CoT per response seems sufficient to me, so this doesn't change much.
+* In order to reduce confusion for users who have experienced rejections from various models when using the Rules, I have separated the CoT mechanism which is less universally applicable and can be seen as "suspicious" by some models.
+* Now there are two files to choose from: `rules.txt` and `rules_with_cot.txt`.
+* The former is more likely to be accepted by a wider range of models, while the latter includes the Chain-of-Thought mechanism for those who want to get into "debugging" of LLMs' reasoning.
 
 See [CHANGELOG.md](CHANGELOG.md) for full history.
 

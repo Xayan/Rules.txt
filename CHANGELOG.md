@@ -1,3 +1,10 @@
+**v1.2**: *2026-05-12 --- @Xayan*
+
+* In order to reduce confusion for users who have experienced rejections from various models when using the Rules, I have separated the CoT mechanism which is less universally applicable and can be seen as "suspicious" by some models.
+* Now there are two files to choose from: `rules.txt` and `rules_with_cot.txt`.
+  * The former is more likely to be accepted by a wider range of models and does a good job at realigning their RLHF to not shy away from controversial topics.
+  * The latter includes the Chain-of-Thought mechanism for those who want to be able to "debug" LLMs' reasoning.
+
 **v1.1**: *2025-10-12 --- @Xayan*
 
 * Add "Trust" score (1.0-10.0) before the answer, indicating how "aligned" the conversation is with the Rules. Now you can know if you've fucked up somewhere and modify your approach.
